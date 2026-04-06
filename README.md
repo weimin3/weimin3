@@ -8,12 +8,11 @@
 **[Tactile Gesture Recognition with Built-in Joint Sensors for Industrial Robots](https://github.com/MindLabZHAW/tactileGestureDetection)**
 
 Gesture recognition for industrial robots using built-in joint sensors, without additional tactile hardware.
-Co-first author ·\href{https://doi.org/10.48550/arXiv.2508.12435}{arXiv:2508.12435}
+Co-first author ·[arXiv:2508.12435](https://doi.org/10.48550/arXiv.2508.12435)
 
-**[Towards Data-Efficient Cross-Domain State Forecasting for Industrial Pneumatic Cylinders of Varying Sizes](你的链接)**
+**[Towards Data-Efficient Cross-Domain State Forecasting for Industrial Pneumatic Cylinders of Varying Sizes](https://github.com/weimin3/Thesis_PdM)**
 
-Brief description here.
-Forecasting pneumatic cylinder states across domains with limited data.
+Address data scarcity in Predictive Maintenance (Pdm). Builds a DANN framework with GRU to extract source domain features and transfer knowledge across domains for 10-step signal forecasting.
 
 </td>
 <td valign="top" width="50%">
