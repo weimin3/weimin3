@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**weimin3/weimin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student at UZH | Audio ML · Signal Processing · Robotics
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="60%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Projects
+
+**[Tactile Gesture Recognition with Built-in Joint Sensors for Industrial Robots](https://github.com/MindLabZHAW/tactileGestureDetection)**
+Co-first author · arXiv:2508.12435
+Gesture recognition for industrial robots using built-in joint sensors, without additional tactile hardware.
+
+---
+
+**[Towards Data-Efficient Cross-Domain State Forecasting for Industrial Pneumatic Cylinders of Varying Sizes](你的链接)**
+Brief description here.
+Forecasting pneumatic cylinder states across domains with limited data.
+
+</td>
+<td valign="top" width="40%">
+
+### 📚 Tutorials
+
+**[Python](你的链接)**
+Data processing, ML pipelines, automation scripts.
+
+**[Java](你的链接)**
+OOP fundamentals and software engineering practice.
+
+</td>
+</tr>
+</table>
+
+---
+
+📫 Reach me: your@email.com
