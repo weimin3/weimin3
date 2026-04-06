@@ -23,9 +23,11 @@ Forecasting pneumatic cylinder states across domains with limited data.
 ### 📚 Tutorials
 
 **[Python_Tutorial(Chinese)](https://github.com/weimin3/Python_Tutorial_Chinese?tab=readme-ov-file)**
+
 Data processing, ML pipelines, automation scripts.
 
-**[Java](你的链接)**
+**[Java_Tutorial(Chinese)](https://github.com/weimin3/JAVA_Tutorial_Chinese)**
+
 OOP fundamentals and software engineering practice.
 
 </td>
