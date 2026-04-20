@@ -14,6 +14,10 @@ Gesture recognition for industrial robots using built-in joint sensors, without 
 
 Address data scarcity in Predictive Maintenance (PdM). Builds a DANN framework with GRU to extract source domain features and transfer knowledge across domains for 10-step signal forecasting.
 
+**[LegalMind: AI Legal Contract Analyzer](https://github.com/weimin3/LegalMind-AI-Legal-Contract-Analyzer)**
+
+AI-powered legal contract analyzer using RAG for intelligent document analysis, automatic summarization, and interactive Q&A with local LLMs. Built with Streamlit, LangChain, and ChromaDB.
+
 **[AI-Driven Antiviral Compound Screening: A Case Study on HIV](https://github.com/weimin3/AI-Antiviral-Compound-Screening)**
 
 Built a two-stage classification pipeline: Stage 1 distinguishes HIV-active vs. inactive compounds across the full dataset;
